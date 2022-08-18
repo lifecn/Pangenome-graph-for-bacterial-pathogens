@@ -1,0 +1,6 @@
+(NC_017518:1.0,NC_017518Sim1.0:1.0,NMI01191Sim1.0:1.0,NMI97349Sim1.0:1.0,_MINIGRAPH_:1.0);
+NC_017518	/home/zyang/NGS/active/IPL/MENINGO/analysis/graph_genome/Minigraph-Cactus/4Sim/NC_017518
+NC_017518Sim1.0	/home/zyang/NGS/active/IPL/MENINGO/analysis/graph_genome/Minigraph-Cactus/4Sim/NC_017518Sim1
+NMI01191Sim1.0	/home/zyang/NGS/active/IPL/MENINGO/analysis/graph_genome/Minigraph-Cactus/4Sim/NMI01191Sim1
+NMI97349Sim1.0	/home/zyang/NGS/active/IPL/MENINGO/analysis/graph_genome/Minigraph-Cactus/4Sim/NMI97349Sim1
+_MINIGRAPH_	file:///NGS/active/IPL/MENINGO/analysis/graph_genome/Minigraph-Cactus/4Sim/4Sim_retry.gfa.fa.gz
