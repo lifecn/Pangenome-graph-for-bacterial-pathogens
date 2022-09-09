@@ -1,0 +1,14 @@
+evaluation:
+  input-gfa:          ./pgge/circ4_ST6964.2k90.gfa
+  input-fasta:        ./circ4_ST6964.fa
+  output-dir:         ./pgge
+  beehave-r:          /home/zyang/NGS/active/IPL/MENINGO/analysis/graph_genome/pgge/scripts/beehave.R
+  peanut-bed:         true
+  input-graph-names:  false
+splitfa:
+  seq-length:         100000
+  step:               5000
+evaluation-gaf-mode:
+  input-gaf:          false
+general:
+  threads:            16
