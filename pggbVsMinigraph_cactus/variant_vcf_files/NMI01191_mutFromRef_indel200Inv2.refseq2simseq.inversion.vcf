@@ -1,0 +1,17 @@
+##fileformat=VCFv4.1
+##fileDate=Mon Mar  7 09:45:58 2022 (GMT time)
+##source=simuG.pl
+##INFO=<ID=variant_type,Number=1,Type=String,Description="The type of the introduced genomic variant">
+##INFO=<ID=variant_id,Number=1,Type=String,Description="The id of the introduced genomic variant">
+##INFO=<ID=ref_chr,Number=1,Type=String,Description="The reference genome based chromosome ID of the introduced genomic variant">
+##INFO=<ID=ref_start,Number=1,Type=String,Description="The reference genome based start coordinate of the introduced genomic variant">
+##INFO=<ID=ref_end,Number=1,Type=String,Description="The reference genome based end coordinate of the introduced genomic variant">
+##INFO=<ID=sim_chr,Number=1,Type=String,Description="The simulated genome based chromosome ID of the introduced genomic variant">
+##INFO=<ID=sim_start,Number=1,Type=String,Description="The simulated genome based start coordinate of the introduced genomic variant">
+##INFO=<ID=sim_end,Number=1,Type=String,Description="The simulated genome based end coordinate of the introduced genomic variant">
+##INFO=<ID=EVENT,Number=1,Type=String,Description="The event id of the introduced genomic variant">
+##INFO=<ID=SVTYPE,Number=1,Type=String,Description="The type of strucrtural variant">
+##INFO=<ID=END,Number=1,Type=String,Description="The end position of the variant described in this record">
+#CHROM	POS	ID	REF	ALT	QUAL	FILTER	INFO
+NMI01191_mut_indel200	474891	.	G	<INV>	.	.	variant_type=INV;variant_id=INV_2;SVTYPE=INV;EVENT=INV_2;END=614379
+NMI01191_mut_indel200	2034437	.	A	<INV>	.	.	variant_type=INV;variant_id=INV_1;SVTYPE=INV;EVENT=INV_1;END=2155381
